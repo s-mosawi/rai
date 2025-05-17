@@ -22,6 +22,7 @@ export default function ArticleCard({
         <Image src={imgUrl} alt="" fill className="object-cover" />
       </div>
 
+
       <p className="mb-3 text-sm text-muted-foreground">{label}</p>
 
       <h3 className="text-lg leading-[145%] font-semibold">{title}</h3>
